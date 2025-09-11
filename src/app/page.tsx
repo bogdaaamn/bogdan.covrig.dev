@@ -50,13 +50,13 @@ export default function Page() {
         </p>
         <p>usually busy with movies, concerts, and sitting in the park for no apparent reasons. oxford comma enjoyer</p>
         <p>
-          <a href="https://www.linkedin.com/in/bogdancovrig/" target="_blank" rel="noopener noreferrer">
-            linkedin.com/in/bogdancovrig
+          <a href="https://github.com/bogdaaamn" target="_blank" rel="noopener noreferrer">
+            github.com/bogdaaamn
           </a>
         </p>
-        <p className="mt-4">
-          <a href="https://read.cv/bogdaaamn" target="_blank" rel="noopener noreferrer">
-            read.cv/bogdaaamn
+        <p>
+          <a href="https://www.linkedin.com/in/bogdancovrig/" target="_blank" rel="noopener noreferrer">
+            linkedin.com/in/bogdancovrig
           </a>
         </p>
         <p>
